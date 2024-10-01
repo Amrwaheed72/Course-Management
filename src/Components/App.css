@@ -1,0 +1,19 @@
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.app-title {
+  font-size: 2.5rem;
+  color: #343a40;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.app-content {
+  margin-top: 20px;
+}
